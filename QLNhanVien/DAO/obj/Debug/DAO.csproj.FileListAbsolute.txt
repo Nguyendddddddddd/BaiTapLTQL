@@ -7,3 +7,12 @@ D:\PhamDucNguyen\QLNhanVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
 D:\PhamDucNguyen\QLNhanVien\DAO\obj\Debug\DAO.csproj.CopyComplete
 D:\PhamDucNguyen\QLNhanVien\DAO\obj\Debug\DAO.dll
 D:\PhamDucNguyen\QLNhanVien\DAO\obj\Debug\DAO.pdb
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\DAO\bin\Debug\DAO.dll
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\DAO\bin\Debug\DAO.pdb
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\DAO\bin\Debug\DTO.dll
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\DAO\bin\Debug\DTO.pdb
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\DAO\obj\Debug\DAO.dll
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\DAO\obj\Debug\DAO.pdb

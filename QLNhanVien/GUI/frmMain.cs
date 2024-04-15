@@ -49,5 +49,12 @@ namespace GUI
             fBCNhanVien.MdiParent = this;
             fBCNhanVien.Show();
         }
+
+        private void bangLuongToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            frmBCBangLuong fBCBangLuong = new frmBCBangLuong();
+            fBCBangLuong.MdiParent = this;
+            fBCBangLuong.Show();
+        }
     }
 }

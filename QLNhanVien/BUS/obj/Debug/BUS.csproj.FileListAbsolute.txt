@@ -9,3 +9,14 @@ D:\PhamDucNguyen\QLNhanVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
 D:\PhamDucNguyen\QLNhanVien\BUS\obj\Debug\BUS.csproj.CopyComplete
 D:\PhamDucNguyen\QLNhanVien\BUS\obj\Debug\BUS.dll
 D:\PhamDucNguyen\QLNhanVien\BUS\obj\Debug\BUS.pdb
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\BUS\bin\Debug\BUS.dll
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\BUS\bin\Debug\BUS.pdb
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\BUS\bin\Debug\DAO.dll
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\BUS\bin\Debug\DTO.dll
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\BUS\bin\Debug\DAO.pdb
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\BUS\bin\Debug\DTO.pdb
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\BUS\obj\Debug\BUS.dll
+D:\BTLTQL\BaiTapLTQL\QLNhanVien\BUS\obj\Debug\BUS.pdb
